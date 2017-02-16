@@ -1,0 +1,799 @@
+date;sex;genotype;males;females;0;0,1;0,3;0,6;1;3;10;30;SCORE;PER;remarks
+22.10.2013;m;Actinw;Actin;w;0;0;0;0;0;1;1;1;3;1;
+22.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;1;1;2;1;
+22.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+22.10.2013;m;Actinw;Actin;w;0;0;0;0;0;1;1;1;3;1;
+22.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;1;0;1;1;in 10% one PER
+22.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+22.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0;0;0;0;1;
+22.10.2013;m;Actinw;Actin;w;0;0;0;0;0;1;1;1;3;1;
+22.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+22.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0;0;1;1;1;
+22.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;0;0;0;1;
+22.10.2013;m;ActinUAS;Actin;UAS;0;0;0;1;1;1;1;1;5;1;
+22.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;1;1;2;1;
+22.10.2013;m;Actinw;Actin;w;0;1;1;1;1;1;1;1;7;1;
+22.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;1;1;2;1;
+22.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;1;1;1;
+22.10.2013;m;Actinw;Actin;w;0;1;1;1;1;1;1;1;7;1;
+22.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;0;1;1;1;
+24.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;1;1;1;1;4;1;
+24.10.2013;m;ActinUAS;Actin;UAS;0;0;0;1;1;1;1;1;5;1;
+24.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0;1;0;1;1;
+24.10.2013;m;Actinw;Actin;w;0;0;1;0;1;1;1;1;5;1;
+24.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+24.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;1;1;1;3;1;
+24.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+24.10.2013;m;Actinw;Actin;w;0;0;0;1;1;1;1;1;5;1;
+24.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;1;1;2;1;
+24.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;1;1;2;1;
+24.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0;1;1;2;1;in 0% a bit extension
+24.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;1;1;1;1;4;1;
+24.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;1;1;2;1;
+24.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;1;1;2;1;in 0% a bit extension
+25.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;1;1;2;1;
+25.10.2013;m;Actintbh;Actin;tbh;0;0;0;1;0;0;1;1;3;1;in 3% a bit extension
+25.10.2013;m;Actinw;Actin;w;0;0;0;1;1;1;1;1;5;1;
+25.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;1;1;1;3;1;
+25.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+25.10.2013;m;Actinw;Actin;w;0;0;0;0;0;1;1;1;3;1;
+25.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;0;1;1;1;
+25.10.2013;m;Actinw;Actin;w;0;0;0;0;0;1;1;1;3;1;in 0.1% a bit extension
+25.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;0;1;1;1;
+25.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;1;1;1;3;1;
+25.10.2013;m;Actinw;Actin;w;0;0;0;0;0;1;0;1;2;1;
+25.10.2013;m;ActinUAS;Actin;UAS;0;0;1;0;0;1;1;1;4;1;
+25.10.2013;m;Actintbh;Actin;tbh;0;1;0;0;0;0;1;1;3;1;in 1% a bit extension
+25.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0;0;1;1;1;in 10% a bit extension
+25.10.2013;m;Actintbh;Actin;tbh;0;0;1;1;1;1;1;1;6;1;
+25.10.2013;m;Actinw;Actin;w;0;0;0;1;1;0;1;1;4;1;
+25.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;1;1;2;1;in 0.3% a bit extension
+25.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0,5;0;1;1,5;1;
+25.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;0;1;1;1;
+25.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+25.10.2013;m;Actinw;Actin;w;0;0;1;1;1;1;1;1;6;1;
+25.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;1;1;1;3;1;
+25.10.2013;m;Actinw;Actin;w;0;0;0;0;1;0;1;1;3;1;in 3% a bit extension
+25.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;0;1;1;1;
+25.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;1;1;1;
+25.10.2013;m;Actinw;Actin;w;0;0;0;0;0;1;1;1;3;1;
+25.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;1;0;1;1;3;1;in 3% a bit extension
+25.10.2013;m;Actinw;Actin;w;0;0;0;1;1;1;1;1;5;1;in 0.1%,0.3% a bit extension
+25.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;0;0;0;1;
+27.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+27.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0;0;0;0;1;first segment of one leg missing
+27.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;0;0;0;1;
+27.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;1;1;1;3;1;
+27.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0;0;0;0;1;
+27.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;0;0;0;1;in 10% a bit extension
+27.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;in 30% a bit extension
+27.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;1;1;1;3;1;
+27.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+27.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0;1;1;2;1;
+27.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;1;1;1;3;1;
+27.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;1;0;0;1;1;
+27.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0;0;0;0;1;
+27.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;0;0;0;1;
+27.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0;0;0;0;1;
+27.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;1;1;1;1;4;1;
+27.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+27.10.2013;m;Actinw;Actin;w;0;0;0;0;1;1;1;1;4;1;in 0.6% a bit extension
+27.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;1;1;2;1;
+27.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+27.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0;0;0;0;1;in 30% a bit extension
+29.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;1;0;1;1;
+29.10.2013;m;Actinw;Actin;w;0;1;0;0;0;0;1;1;3;1;in 0.3% a bit extension
+29.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;1;1;2;1;
+29.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0;0;1;1;1;in 10% a bit extension
+29.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+29.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;0;0;0;1;
+29.10.2013;m;Actinw;Actin;w;0;0;0;0;0;1;1;1;3;1;
+29.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+29.10.2013;m;Actinw;Actin;w;0;0;0;1;0;1;1;1;4;1;
+29.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+29.10.2013;m;ActinUAS;Actin;UAS;0;0;1;1;1;1;1;1;6;1;
+29.10.2013;m;Actinw;Actin;w;0;0;1;0;1;1;1;1;5;1;
+29.10.2013;m;ActinUAS;Actin;UAS;0;0;0;0;0;0;0;0;0;1;
+29.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+29.10.2013;m;ActinUAS;Actin;UAS;0;0;1;1;1;1;1;1;6;1;
+29.10.2013;m;Actinw;Actin;w;0;0;0;0;0;0;0;0;0;1;
+29.10.2013;m;Actintbh;Actin;tbh;0;0;0;0;0;0;0;0;0;1;
+06.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;1;1;1;3;1;
+06.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0,5;0,5;0,5;1,5;1;
+06.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;0;0;1;in 10% a bit extension
+06.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;
+06.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0,5;0,5;1;1;
+06.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0,5;0;0,5;1;
+06.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;1;1;1;1;4;1;
+06.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0,5;1;1;1;3,5;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;0;0;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;0;0;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;1;0;1;1;1;1;1;6;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;0;0;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;1;1;1;3;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;1;1;1;in 10% a bit extension
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;1;1;1;3;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;1;1;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;in 0.1% a bit extension
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;1;1;1;1;4;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;1;1;1;3;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;
+08.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;0;0;1;in 30% a bit extension
+09.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;1;1;1;3;1;
+09.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;1;1;1;3;1;
+09.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;1;1;1;3;1;
+09.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;0;0;1;
+09.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;1;1;1;
+09.11.2013;m;nSybtbh;nSyb;tbh;0;0;1;1;1;1;1;1;6;1;
+09.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;in 0%,0.1%,0.3%,0.6% a bit extension
+09.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;1;1;1;3;1;
+09.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;1;1;1;1;1;5;1;
+09.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;0;0;1;
+09.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;1;0;1;1;1;4;1;
+09.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0,5;1;1,5;1;
+10.11.2013;m;nSybtbh;nSyb;tbh;0;0;1;0,5;1;0,5;1;1;5;1;
+10.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;
+10.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;in 10% extension before
+10.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;1;1;1;
+10.11.2013;m;nSybtbh;nSyb;tbh;0;1;0;0;1;1;1;1;5;1;in 0.1% extension before, in 0.3% a bit extension
+10.11.2013;m;nSybtbh;nSyb;tbh;0;0;1;1;1;1;1;1;6;1;
+10.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;1;1;1;3;1;in 0% a bit extension
+10.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;
+10.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;
+10.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0,5;0;0,5;1;1;in 10% a bit extension
+10.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;0;0;1;
+10.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;
+10.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;1;1;1;3;1;
+10.11.2013;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;1;1;1;
+03.02.2014;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;in 3% a bit extension
+03.02.2014;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;in 0.6% a bit extension
+03.02.2014;m;nSybtbh;nSyb;tbh;0;0;1;1;1;1;1;1;6;1;
+03.02.2014;m;nSybtbh;nSyb;tbh;0;0;0;0;0,5;1;1;1;3,5;1;
+03.02.2014;m;nSybtbh;nSyb;tbh;0;1;0,5;1;1;1;1;1;6,5;1;
+04.02.2014;m;nSybtbh;nSyb;tbh;0;0;0;0;0;1;0;1;2;1;
+04.02.2014;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;0;0;1;
+04.02.2014;m;nSybtbh;nSyb;tbh;0;0;0;0;0;1;0,5;0,5;2;1;
+04.02.2014;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;0;0;1;
+04.02.2014;m;nSybtbh;nSyb;tbh;0;0;1;0,5;1;1;1;1;5,5;1;
+04.02.2014;m;nSybtbh;nSyb;tbh;0;0;0;0;0,5;1;1;1;3,5;1;in 0.6% a bit extension
+04.02.2014;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;1;1;2;1;
+04.02.2014;m;nSybtbh;nSyb;tbh;0;0;0;0;0;0;0;1;1;1;in 0.1% a bit extension
+04.02.2014;m;nSybtbh;nSyb;tbh;0;0;0;0;0;1;1;1;3;1;
+06.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;0;1;1;1;
+06.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+06.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;1;1;1;1;4;1;
+06.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;1;1;1;3;1;
+06.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+06.11.2013;m;nSybUAS;nSyb;UAS;0;0;1;1;1;1;1;1;6;1;
+06.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;0,5;1;1,5;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;1;1;1;1;1;1;6;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;0,5;1;1,5;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;1;1;1;1;4;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;1;1;1;3;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0,5;0,5;1;2;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;1;1;1;1;1;1;6;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;1;1;1;1;1;1;1;7;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0,5;0;1;1;1;3,5;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;1;0;0,5;0;1;1;1;4,5;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0,5;0;1;1;1;1;1;5,5;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;0;1;1;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;1;1;1;3;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;1;1;1;1;1;1;6;1;
+08.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+09.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;1;1;1;1;1;5;1;
+09.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;1;1;1;1;1;5;1;
+09.11.2013;m;nSybUAS;nSyb;UAS;0;0,5;0;0;0,5;1;1;1;4;1;
+09.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+09.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;0;1;1;1;
+09.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;1;0;1;0;1;3;1;in 0.1%,1%,30% a bit extension
+09.11.2013;m;nSybUAS;nSyb;UAS;0;1;1;1;1;1;1;1;7;1;
+09.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+09.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;1;1;1;3;1;in 0.3%,0.6%,1% a bit extension
+09.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+09.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+10.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+10.11.2013;m;nSybUAS;nSyb;UAS;0;0;1;1;1;1;1;1;6;1;
+10.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;1;0,5;1;2,5;1;
+10.11.2013;m;nSybUAS;nSyb;UAS;0;0;1;0;1;1;1;1;5;1;
+10.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;0,5;1,5;1;in 3% a bit extension
+10.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+10.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+10.11.2013;m;nSybUAS;nSyb;UAS;0;1;0;1;0,5;1;1;1;5,5;1;
+10.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;0;1;1;in 3%, 30% a bit extension
+10.11.2013;m;nSybUAS;nSyb;UAS;0;0;0;0;0;1;1;1;3;1;
+10.11.2013;m;nSybUAS;nSyb;UAS;0;0;1;0;0;0;0;1;2;1;
+03.02.2014;m;nSybUAS;nSyb;UAS;0;0;1;1;1;1;1;1;6;1;
+03.02.2014;m;nSybUAS;nSyb;UAS;0;0;0;0;0;1;0;1;2;1;
+03.02.2014;m;nSybUAS;nSyb;UAS;0;0;0;1;1;1;1;1;5;1;
+03.02.2014;m;nSybUAS;nSyb;UAS;0;0;0;0;0;1;1;1;3;1;
+04.02.2014;m;nSybUAS;nSyb;UAS;0;0;0;0;0;1;1;1;3;1;in 30% extension before
+04.02.2014;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+04.02.2014;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;0;0;0;1;
+04.02.2014;m;nSybUAS;nSyb;UAS;0;0;0;0;1;1;1;1;4;1;in 0.3%,0.6% a bit extension
+04.02.2014;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;0;0;0;1;
+04.02.2014;m;nSybUAS;nSyb;UAS;0;0;0,5;0;1;1;1;1;4,5;1;
+04.02.2014;m;nSybUAS;nSyb;UAS;0;0;0;1;0;0;1;0;2;1;
+04.02.2014;m;nSybUAS;nSyb;UAS;0;0;0;0;0;0;1;1;2;1;
+04.02.2014;m;nSybUAS;nSyb;UAS;0;1;1;1;1;1;1;1;7;1;
+04.02.2014;m;nSybUAS;nSyb;UAS;0;1;0,5;1;1;1;1;1;6,5;1;in 30% extension before
+06.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;1;1;2;1;
+06.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0,5;0,5;1;1;
+06.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;1;1;2;1;
+06.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0;0;1;
+06.11.2013;m;nSybw;nSyb;w;0;0;0;0;1;0;0;1;2;1;
+06.11.2013;m;nSybw;nSyb;w;0;0;0;0;0,5;0,5;0,5;0,5;2;1;
+06.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0,5;0,5;1;1;
+08.11.2013;m;nSybw;nSyb;w;0;0;0;1;1;0;1;1;4;1;
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;1;1;1;in 10% a bit extension
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;1;1;1;
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0,5;0,5;1;
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0,5;0;0,5;1;1;3;1;
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;1;1;2;1;
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;1;1;1;
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0,5;1;1;2,5;1;
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0;0;0;
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;1;1;1;
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0;0;1;
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;1;0,5;0;1,5;1;in 1% a bit extension
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;1;1;1;
+08.11.2013;m;nSybw;nSyb;w;0;0;1;0;0;1;1;1;4;1;
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;1;1;2;1;
+08.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0;0;1;
+09.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0,5;0,5;1;in 10% a bit extension
+09.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0,5;0,5;1;
+09.11.2013;m;nSybw;nSyb;w;0;1;0;0;0;1;1;1;4;1;
+09.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0,5;0,5;1;1;
+09.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;1;1;2;1;in 0.1% a bit extension
+09.11.2013;m;nSybw;nSyb;w;0;1;1;1;1;1;1;1;7;1;
+09.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0,5;0,5;1;
+09.11.2013;m;nSybw;nSyb;w;0;0;0;0;1;1;1;1;4;1;
+09.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;1;1;2;1;
+09.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;1;1;1;3;1;
+09.11.2013;m;nSybw;nSyb;w;0;0;0;0,5;0;1;1;1;3,5;1;
+10.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;1;1;2;1;in 3% a bit extension
+10.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0,5;0;1;1,5;1;
+10.11.2013;m;nSybw;nSyb;w;0;1;0;0;0;0;0,5;1;2,5;1;in 0% a bit extension, in 0.1% one PER
+10.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;1;1;1;in 10% a bit extension
+10.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0,5;1;1,5;1;in 0% a bit extension
+10.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;1;1;1;in 10% a bit extension
+10.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0,5;1;1,5;1;
+10.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;1;1;2;1;in 0.1% a bit extension
+10.11.2013;m;nSybw;nSyb;w;0;0;1;1;1;1;1;1;6;1;in 0.1% a bit extension
+10.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;1;1;2;1;
+10.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0;0;1;
+10.11.2013;m;nSybw;nSyb;w;0;0;0;1;1;0;0;1;3;1;in 3%,10% a bit extension
+10.11.2013;m;nSybw;nSyb;w;0;0;0;0;0;0;0;1;1;1;
+03.02.2014;m;nSybw;nSyb;w;0;0;0;0;0;1;1;1;3;1;in 0% a bit extension
+03.02.2014;m;nSybw;nSyb;w;0;0;0;0;0;0,5;0;0;0,5;1;in 0.6%,30% a bit extension
+03.02.2014;m;nSybw;nSyb;w;0;0;0;1;0;0;1;1;3;1;
+03.02.2014;m;nSybw;nSyb;w;0;0;1;1;1;1;1;1;6;1;
+03.02.2014;m;nSybw;nSyb;w;0;0;1;0;0;0;1;1;3;1;in 0.1% a bit extension
+04.02.2014;m;nSybw;nSyb;w;0;0;0;0;0;0;0;1;1;1;
+04.02.2014;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0;0;1;in 0.3%, 1% a bit extension
+04.02.2014;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0;0;1;
+04.02.2014;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0;0;1;
+04.02.2014;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0;0;1;
+04.02.2014;m;nSybw;nSyb;w;0;0;0;0;0;0;1;1;2;1;
+04.02.2014;m;nSybw;nSyb;w;0;0;0;0;0;0;0;0,5;0,5;1;in 0.1%, 3% a bit extension
+04.02.2014;m;nSybw;nSyb;w;0;0;0;0;0;0;0,5;0;0,5;1;
+04.02.2014;m;nSybw;nSyb;w;0;0;0;0;0;1;1;1;3;1;in 0.3% a bit extension
+25.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;1;1;1;3;1;
+25.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;1;1;1;1;1;1;6;1;
+25.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;1;1;1;3;1;
+25.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+26.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;1;1;2;1;
+26.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;
+27.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;1;1;0;1;1;1;5;1;
+27.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;in 10% a bit extension
+27.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;1;1;1;3;1;
+27.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;1;1;0;1;1;4;1;in 0.6% only one PER, in 3% a bit extension
+28.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;tested 3% twice
+28.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;1;1;0;2;1;tested 3% twice,in 30% a bit extension
+28.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;1;1;1;1;1;1;6;1;
+28.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;1;1;1;3;1;
+28.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;1;1;2;1;
+29.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+29.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+29.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;1;1;2;1;
+29.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;in 10% a bit extension
+30.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;1;1;1;0;3;1;in 30% a bit extension
+30.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;1;1;2;1;in 3% a bit extension
+30.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;1;1;1;1;1;5;1;in 0.1%,0.3% a bit extension
+30.04.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;in 10% a bit extension
+01.05.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;1;1;1;1;1;5;1;in 0.1% a bit extension
+01.05.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;1;1;1;3;1;
+01.05.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;1;0;1;1;
+01.05.2013;cross1;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;1;1;1;3;1;
+01.05.2013;cross1;Tdc1tbh;Tdc1;tbh;0;1;0;1;1;1;1;1;6;1;in 0%,0.3% a bit extension
+25.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;1;1;1;1;4;1;in 0.6% a bit extension
+25.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;1;0;0;1;0;1;1;4;1;
+25.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;0;0;1;
+25.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;1;1;1;1;1;1;6;1;
+25.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;1;1;2;1;in 0.1% a bit extension
+25.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;1;1;1;1;4;1;
+26.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;1;1;1;3;1;in 0.3%,1% a bit extension
+26.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;0;0;1;
+26.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;1;0;1;1;1;1;5;1;in 0% a bit extension
+26.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;0;0;1;in 30% a bit extension
+26.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;1;1;1;1;1;1;1;7;1;
+27.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;1;1;0;1;1;4;1;
+27.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;1;1;1;3;1;in 0.3%, 1% a bit extension
+27.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;0;0;1;
+27.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;0;0;1;
+27.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;1;1;1;1;4;1;in 0.1%, 0.6% a bit extension
+27.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;1;1;1;1;4;1;in 0%,0.1%,0.6% a bit extension
+28.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;1;1;1;3;1;tested 3% twice
+28.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;1;1;1;1;4;1;tested 3% twice
+28.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;1;1;2;1;
+28.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;1;1;1;1;1;1;1;7;1;
+29.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;1;1;1;
+29.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;0;0;1;
+30.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;1;0;1;1;1;4;1;in 0.1% a bit extension
+30.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;0;0;1;in 30% a bit extension
+30.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;1;1;1;in 10% a bit extension
+30.04.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;1;1;1;1;1;1;6;1;
+01.05.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;1;1;2;1;
+01.05.2013;cross1;Tdc1UAS;Tdc1;UAS;0;0;0;1;1;1;1;1;5;1;in 0%,0.1%,0.3% a bit extension
+25.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;0;1;1;2;1;
+25.04.2013;cross1;Tdc1w;Tdc1;w;0;1;1;0;0;0;0;0;2;1;
+25.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;1;3;1;
+25.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;0;0;1;
+26.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;1;1;1;1;4;1;in 0.3% a bit extension
+26.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;1;3;1;
+27.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;0;0;1;
+27.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;0;1;0;1;1;
+27.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;1;1;1;in 10% a bit extension
+27.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;0;1;1;2;1;
+28.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;1;1;1;1;1;5;1;tested 3% twice
+28.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;0;0;1;tested 3% twice
+28.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;0;1;1;2;1;
+28.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;0,5;0,5;1;
+28.04.2013;cross1;Tdc1w;Tdc1;w;0;1;1;1;1;1;1;1;7;1;in 0% a bit extension
+29.04.2013;cross1;Tdc1w;Tdc1;w;0;0;1;1;1;1;1;1;6;1;
+29.04.2013;cross1;Tdc1w;Tdc1;w;0;0;1;1;1;1;1;1;6;1;in 3% extension before
+30.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;0;0;1;in 0.1%,30% a bit extension
+30.04.2013;cross1;Tdc1w;Tdc1;w;0;0;0;1;0;1;1;1;4;1;in 0%,1% a bit extension
+30.04.2013;cross1;Tdc1w;Tdc1;w;0;1;1;1;1;1;1;1;7;1;in 0.1%,0.3%,0.6% extension before
+01.05.2013;cross1;Tdc1w;Tdc1;w;0;1;1;1;1;1;1;1;7;1;
+01.05.2013;cross1;Tdc1w;Tdc1;w;0;1;1;1;1;1;1;1;7;1;
+01.05.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;0;1;1;2;1;
+01.05.2013;cross1;Tdc1w;Tdc1;w;0;1;0;1;1;1;1;1;6;1;
+01.05.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;1;1;1;1;4;1;
+01.05.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;1;3;1;in 0.3% a bit extension
+01.05.2013;cross1;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;0;2;1;in 30% a bit extension
+04.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+06.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+06.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;1;1;1;3;1;in 0.1%,0.6% a bit extension
+06.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;1;1;1;1;4;1;small fly
+06.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;in 3% a bit extension
+06.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;in 10% a bit extension
+06.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+06.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+07.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;in 0%,10% a bit extension
+07.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;
+07.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;1;1;1;3;1;
+07.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;1;1;1;1;4;1;
+07.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;in 0.6% a bit extension
+07.06.2013;cross2;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+06.06.2013;cross2;Tdc1UAS;Tdc1;UAS;0;0;1;1;1;1;1;1;6;1;
+06.06.2013;cross2;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;1;1;1;3;1;
+06.06.2013;cross2;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;1;1;2;1;
+07.06.2013;cross2;Tdc1UAS;Tdc1;UAS;0;0;0;1;0;0;1;1;3;1;
+07.06.2013;cross2;Tdc1UAS;Tdc1;UAS;0;0;1;0;1;1;1;1;5;1;
+07.06.2013;cross2;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;0;0;1;
+07.06.2013;cross2;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;1;1;1;3;1;
+07.06.2013;cross2;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;0;0;1;
+04.06.2013;cross2;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;0;0;1;
+04.06.2013;cross2;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;1;3;1;
+06.06.2013;cross2;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;1;3;1;
+06.06.2013;cross2;Tdc1w;Tdc1;w;0;0;0;1;1;1;1;1;5;1;
+06.06.2013;cross2;Tdc1w;Tdc1;w;0;0;0;0;0;0;1;1;2;1;in 3% a bit extension
+06.06.2013;cross2;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;1;3;1;
+06.06.2013;cross2;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;0;0;1;
+06.06.2013;cross2;Tdc1w;Tdc1;w;0;0;0;0;0;0;1;1;2;1;
+06.06.2013;cross2;Tdc1w;Tdc1;w;0;0;0;0;1;1;1;1;4;1;in 1% only one PER
+07.06.2013;cross2;Tdc1w;Tdc1;w;0;0;1;1;1;1;1;1;6;1;
+07.06.2013;cross2;Tdc1w;Tdc1;w;0;0;0;0;0;0;1;1;2;1;
+07.06.2013;cross2;Tdc1w;Tdc1;w;0;1;1;1;1;1;1;1;7;1;
+07.06.2013;cross2;Tdc1w;Tdc1;w;0;1;1;1;1;1;1;1;7;1;
+07.06.2013;cross2;Tdc1w;Tdc1;w;0;0;1;1;1;1;1;1;6;1;
+07.06.2013;cross2;Tdc1w;Tdc1;w;0;0;0;1;1;1;1;1;5;1;
+07.06.2013;cross2;Tdc1w;Tdc1;w;0;0;0;0;0;0;1;1;2;1;
+20.08.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;1;0;1;1;1;4;1;
+20.08.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;1;1;1;3;1;
+21.08.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+21.08.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;1;1;1;1;1;5;1;
+21.08.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;1;1;1;3;1;
+21.08.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;1;1;1;1;1;1;6;1;
+21.08.2013;cross5;Tdc1tbh;Tdc1;tbh;0;1;1;1;1;1;1;1;7;1;
+21.08.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;1;1;1;3;1;
+23.08.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;
+27.08.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+27.08.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+27.08.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+03.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;1;1;2;1;in 0% a bit extension
+03.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+03.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;1;1;1;1;1;1;6;1;
+03.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;
+03.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;1;0;1;1;
+03.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;1;1;1;3;1;
+04.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;1;1;2;1;
+04.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+04.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;
+04.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;1;1;2;1;
+06.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;
+06.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;1;1;2;1;
+06.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;1;1;1;1;4;1;
+06.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;
+06.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;0;0;1;
+06.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;0;0;0;0;0;1;1;1;
+06.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;1;1;1;1;1;1;6;1;
+06.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;1;0;0;0;0;0;0;1;1;
+10.09.2013;cross5;Tdc1tbh;Tdc1;tbh;0;0;1;1;1;1;1;1;6;1;
+20.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;1;1;1;1;1;1;6;1;
+20.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;1;1;2;1;
+20.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;1;1;2;1;
+21.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;1;1;1;1;4;1;
+21.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;1;1;1;3;1;
+21.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;1;1;1;1;1;5;1;
+21.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;1;1;1;3;1;
+21.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;1;1;1;1;1;5;1;
+21.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;0;0;1;
+23.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;1;1;1;
+23.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;1;1;1;3;1;
+23.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;1;1;1;1;4;1;in 0.1%,0.3,0.6% a bit extension
+23.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;1;1;1;1;4;1;in 0.6% a bit extension
+23.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;1;1;1;1;1;1;6;1;in 0%,0.1% a bit extension
+23.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;1;1;1;3;1;
+27.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;1;0;1;2;1;
+27.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;1;1;1;1;1;1;6;1;in 0.1% a bit extension
+27.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;1;1;2;1;
+27.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;1;1;1;3;1;in 0%,0.3%,0.6%,1% a bit extension
+27.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;1;1;2;1;
+27.08.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;0;0;1;
+03.09.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;1;1;2;1;
+03.09.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;1;1;0;1;3;1;in 0.6% a bit extension
+03.09.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;1;1;1;
+03.09.2013;cross5;Tdc1UAS;Tdc1;UAS;0;1;0;0;0;0;0;1;2;1;
+05.09.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;1;1;1;1;1;1;6;1;in 0% a bit extension
+05.09.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;1;1;1;3;1;in 0.6%,1% a bit extension
+06.09.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;1;1;2;1;
+06.09.2013;cross5;Tdc1UAS;Tdc1;UAS;0;1;0;0;1;1;1;1;5;1;
+10.09.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;1;1;1;1;1;5;1;
+10.09.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;0;0;1;
+10.09.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;1;1;1;3;1;
+10.09.2013;cross5;Tdc1UAS;Tdc1;UAS;0;0;0;0;0;0;0;1;1;1;
+20.08.2013;cross5;Tdc1w;Tdc1;w;0;1;0;0;0;0;1;1;3;1;
+20.08.2013;cross5;Tdc1w;Tdc1;w;0;0;0;1;0,5;1;1;1;4,5;1;
+20.08.2013;cross5;Tdc1w;Tdc1;w;0;0;1;1;1;1;1;1;6;1;in 0.1% a bit extension
+20.08.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;0;0;1;
+20.08.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;1;1;1;
+20.08.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;1;1;1;1;4;1;
+20.08.2013;cross5;Tdc1w;Tdc1;w;0;0;0;1;1;1;1;1;5;1;
+20.08.2013;cross5;Tdc1w;Tdc1;w;0;1;0;0;1;1;1;1;5;1;
+21.08.2013;cross5;Tdc1w;Tdc1;w;0;0;1;0;1;1;1;1;5;1;
+21.08.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;0;1;1;2;1;
+23.08.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;1;1;1;1;4;1;in 0.6% a bit extension
+23.08.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;1;3;1;
+27.08.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;1;1;1;1;4;1;
+03.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;1;3;1;
+03.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;0;1;1;2;1;in 3% a bit extension
+03.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;1;0;1;1;1;4;1;in 0.1% a bit extension
+03.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;1;1;1;1;4;1;
+03.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;0;0;1;
+03.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;1;3;1;
+06.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;1;1;1;1;1;5;1;
+06.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;0;0;1;
+06.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;1;3;1;
+06.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;0;1;1;2;1;
+06.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;1;3;1;
+06.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;1;3;1;
+06.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;1;1;1;1;4;1;
+06.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;1;1;1;3;1;
+06.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;1;1;1;
+06.09.2013;cross5;Tdc1w;Tdc1;w;0;0;0;0;0;0;0;0;0;1;
+10.09.2013;cross5;Tdc1w;Tdc1;w;0;1;1;1;1;1;5;1;;;
+22.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+22.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;1;0;1;1;
+22.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;1;1;1;1;1;5;1;
+22.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+22.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;1;1;2;1;
+22.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;1;1;1;1;1;5;1;
+23.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;1;1;1;1;4;1;in 0.6% a bit extension
+23.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;1;1;1;3;1;
+23.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;1;1;1;3;1;
+23.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;1;1;1;1;1;5;1;
+23.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+26.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+26.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+26.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+26.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;1;1;1;3;1;
+27.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;1;1;2;1;in 3% a bit extension
+27.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+27.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+27.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+27.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+28.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;1;1;1;
+28.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;1;1;1;3;1;
+28.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+28.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+28.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;1;1;1;3;1;
+28.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+28.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;1;1;1;
+28.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+28.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+28.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;1;1;1;
+28.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;1;1;1;
+29.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+29.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+29.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;1;1;1;
+29.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0,5;0,5;1;
+29.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;1;0;1;1;
+29.11.2012;cross2;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0,5;1;1,5;1;
+20.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;1;1;2;1;
+20.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+20.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+20.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;1;1;2;1;
+21.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;1;1;1;1;4;1;
+21.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;1;1;2;1;
+21.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+23.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;1;1;1;
+23.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;1;1;2;1;
+27.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;1;1;2;1;
+27.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;1;1;1;
+27.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;1;1;1;
+03.09.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;1;1;2;1;
+03.09.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+03.09.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0,5;0,5;1;
+03.09.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;1;1;1;
+04.09.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+04.09.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+04.09.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+05.09.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;1;1;2;1;
+06.09.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+21.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+21.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;in 10% a bit extension
+21.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;1;1;1;
+21.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;1;1;1;
+21.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;1;1;1;1;0;1;1;6;1;
+21.08.2013;cross3;Tdc2tbh;Tdc2;tbh;0;0;0;0;0;0;0;0;0;1;
+21.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+22.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;in 10% a bit extension
+22.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+22.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+22.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+22.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;
+22.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+22.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0,5;1;1;1;1;4,5;1;
+22.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+23.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;
+23.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;1;0;1;2;1;
+26.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+26.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+26.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+26.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;
+27.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+27.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+27.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+27.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+27.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;in 3% a bit extension
+27.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;1;1;1;3;1;
+28.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+28.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;in 30% one PER
+28.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+28.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+28.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0,5;0,5;1;
+28.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+28.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+28.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+28.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+28.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+29.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;
+29.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0,5;0,5;1;
+29.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;in 3% a bit extension
+29.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+29.11.2012;cross2;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;0,5;1,5;1;
+20.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;in 1% a bit extension
+20.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;hook loosy
+20.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;1;1;1;1;1;5;1;
+20.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+20.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;
+20.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;0;1;1;
+21.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+21.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;
+21.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;1;1;1;3;1;
+21.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;in 3% a bit extension
+21.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;
+21.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;1;1;1;3;1;
+21.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;0;1;1;
+21.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;
+23.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;1;1;2;1;
+23.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;1;1;1;3;1;
+23.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+23.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;1;1;1;1;4;1;
+23.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;1;1;1;3;1;
+27.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+27.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+27.08.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+03.09.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;1;1;1;1;4;1;
+03.09.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+03.09.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;1;1;1;1;4;1;
+03.09.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;1;1;1;1;1;5;1;
+04.09.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+05.09.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;0;0;1;
+06.09.2013;cross3;Tdc2UAS;Tdc2;UAS;0;0;0;0;0;0;0;1;1;1;
+22.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;in 0.1% a bit extension
+22.11.2012;cross2;Tdc2w;Tdc2;w;0;1;1;1;1;1;1;1;7;1;
+22.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+22.11.2012;cross2;Tdc2w;Tdc2;w;0;1;1;1;1;1;1;1;7;1;
+22.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+23.11.2012;cross2;Tdc2w;Tdc2;w;0;0;1;1;0;1;1;1;5;1;in 0.1% a bit extension
+23.11.2012;cross2;Tdc2w;Tdc2;w;0;1;1;1;1;1;1;1;7;1;
+23.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+23.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;1;1;1;
+23.11.2012;cross2;Tdc2w;Tdc2;w;0;1;1;0;0;1;1;1;5;1;
+26.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+26.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;1;1;1;1;1;5;1;in 0.3% a bit extension
+26.11.2012;cross2;Tdc2w;Tdc2;w;0;1;0;0;1;1;0;0;3;1;
+26.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;1;1;1;in 10% a bit extension
+26.11.2012;cross2;Tdc2w;Tdc2;w;0;0;1;1;0;1;1;1;5;1;
+27.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;1;1;1;
+27.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+27.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+27.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+27.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;1;1;1;
+28.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+28.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;0;1;1;2;1;
+28.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+28.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;in 0.6%  bit extension
+28.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;0,5;2,5;1;in 0.6% a bit extension
+28.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+28.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;0;1;1;2;1;
+28.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;1;0;1;2;1;
+28.11.2012;cross2;Tdc2w;Tdc2;w;0;0;1;1;1;1;1;1;6;1;
+28.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;1;1;1;1;1;5;1;in 0.3% a bit extension
+28.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+29.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;1;1;1;1;1;5;1;in 0.3% a bit extension
+29.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+29.11.2012;cross2;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+29.11.2012;cross2;Tdc2w;Tdc2;w;0;1;1;1;0;0,5;1;1;5,5;1;
+29.11.2012;cross2;Tdc2w;Tdc2;w;0;0;1;1;1;1;1;1;6;1;
+20.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+20.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+20.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;1;0;0;1;1;3;1;
+20.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;1;1;2;1;
+20.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+21.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+21.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+21.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;1;1;1;
+21.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;1;1;2;1;
+21.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;1;1;1;
+21.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+21.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;1;1;1;1;4;1;
+23.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+23.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+27.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+27.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;1;1;1;
+27.08.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;1;1;1;
+03.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+03.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;1;0;1;1;0;3;1;
+03.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;1;1;2;1;
+04.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+04.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;1;1;1;
+04.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;1;1;2;1;
+04.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+04.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;1;1;2;1;
+04.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;1;0;1;1;
+04.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;1;1;1;3;1;
+05.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+05.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;1;1;2;1;
+05.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;1;1;1;
+05.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;0;0;0;1;
+05.09.2013;cross3;Tdc2w;Tdc2;w;0;0;1;1;1;1;1;1;6;1;in 0.3% one PER
+05.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;1;1;2;1;
+06.09.2013;cross3;Tdc2w;Tdc2;w;0;0;1;1;1;1;1;1;6;1;
+10.09.2013;cross3;Tdc2w;Tdc2;w;0;0;0;0;0;0;1;1;2;1;
+20.08.2013;a;NP7088tbh;NP7088;tbh;0;0;0;1;1;1;1;1;5;1;
+20.08.2013;a;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;0;0;0;1;
+20.08.2013;a;NP7088tbh;NP7088;tbh;0;0;1;1;1;1;1;1;6;1;
+20.08.2013;a;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;0;0;0;1;
+20.08.2013;a;NP7088tbh;NP7088;tbh;0;0;0;0;0;1;1;1;3;1;
+20.08.2013;a;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;0;0;0;1;
+21.08.2013;a;NP7088tbh;NP7088;tbh;0;0;0;0;0;1;1;1;3;1;
+21.08.2013;a;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;0;0;0;1;
+21.08.2013;a;NP7088tbh;NP7088;tbh;0;0;0;0;1;1;1;1;4;1;
+21.08.2013;a;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;0;1;1;1;
+21.08.2013;a;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;0;0;0;1;
+21.08.2013;a;NP7088tbh;NP7088;tbh;0;0;0;0;0;1;1;1;3;1;
+23.08.2013;a;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;1;1;2;1;
+23.08.2013;a;NP7088tbh;NP7088;tbh;0;0;0;0;0;1;1;1;3;1;
+03.09.2013;b;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;1;0;1;1;
+03.09.2013;b;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;1;1;2;1;
+03.09.2013;b;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;0;0;0;1;
+03.09.2013;b;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;0;1;1;1;
+03.09.2013;b;NP7088tbh;NP7088;tbh;0;0;0;0;1;1;1;1;4;1;
+04.09.2013;b;NP7088tbh;NP7088;tbh;0;0;0;1;1;1;1;1;5;1;
+04.09.2013;b;NP7088tbh;NP7088;tbh;0;0;1;1;1;1;1;1;6;1;
+04.09.2013;b;NP7088tbh;NP7088;tbh;0;0;0;0;0;1;1;1;3;1;
+04.09.2013;b;NP7088tbh;NP7088;tbh;0;0;0;0;1;1;1;1;4;1;
+05.09.2013;c;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;0;0;0;1;
+05.09.2013;c;NP7088tbh;NP7088;tbh;0;0;0;0;1;1;1;1;4;1;
+05.09.2013;c;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;0;0;0;1;
+06.09.2013;c;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;0;0;0;1;
+06.09.2013;c;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;1;1;2;1;
+06.09.2013;c;NP7088tbh;NP7088;tbh;0;0;0;0;0;0;1;1;2;1;
+20.08.2013;a;NP7088UAS;NP7088;UAS;0;0;1;0;1;0;1;1;4;1;
+20.08.2013;a;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;0;0;0;1;
+20.08.2013;a;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;0;1;1;1;
+21.08.2013;a;NP7088UAS;NP7088;UAS;0;0;0;0;0;1;1;1;3;1;
+21.08.2013;a;NP7088UAS;NP7088;UAS;0;0;0;1;0;1;1;1;4;1;
+21.08.2013;a;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;0;1;1;1;
+21.08.2013;a;NP7088UAS;NP7088;UAS;0;0;1;1;1;1;1;1;6;1;
+21.08.2013;a;NP7088UAS;NP7088;UAS;0;0;0;0;1;1;1;1;4;1;
+23.08.2013;a;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;0;1;1;1;
+23.08.2013;a;NP7088UAS;NP7088;UAS;0;0;0;1;1;1;1;1;5;1;
+23.08.2013;a;NP7088UAS;NP7088;UAS;0;0;0;0;1;1;1;1;4;1;
+27.08.2013;b;NP7088UAS;NP7088;UAS;0;0;0;0;0;1;1;1;3;1;
+27.08.2013;b;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;0;1;1;1;
+27.08.2013;b;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;0;1;1;1;
+03.09.2013;b;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;0;1;1;1;
+03.09.2013;b;NP7088UAS;NP7088;UAS;0;0;0;0;0;1;1;1;3;1;
+03.09.2013;b;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;1;1;2;1;
+03.09.2013;b;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;0;1;1;1;
+03.09.2013;b;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;0;1;1;1;
+04.09.2013;b;NP7088UAS;NP7088;UAS;0;0;0;0;1;1;1;1;4;1;
+04.09.2013;b;NP7088UAS;NP7088;UAS;0;0;0;0;0;1;1;1;3;1;
+04.09.2013;b;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;0;1;1;1;
+05.09.2013;c;NP7088UAS;NP7088;UAS;0;0;0;0;1;0;1;1;3;1;
+05.09.2013;c;NP7088UAS;NP7088;UAS;0;0;0;0;1;1;1;1;4;1;
+05.09.2013;c;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;1;1;2;1;
+05.09.2013;c;NP7088UAS;NP7088;UAS;0;0;0;0;1;1;1;1;4;1;
+06.09.2013;c;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;1;1;2;1;
+06.09.2013;c;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;0;0;0;1;
+10.09.2013;c;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;0;0;0;1;
+10.09.2013;c;NP7088UAS;NP7088;UAS;0;0;0;0;0;0;1;1;2;1;
+20.08.2013;a;NP7088w;NP7088;w;0;1;1;1;1;1;1;1;7;1;
+20.08.2013;a;NP7088w;NP7088;w;0;1;1;1;1;1;1;1;7;1;
+20.08.2013;a;NP7088w;NP7088;w;0;1;1;1;1;1;1;1;7;1;
+20.08.2013;a;NP7088w;NP7088;w;0;0;1;0;0;1;1;1;4;1;
+21.08.2013;a;NP7088w;NP7088;w;0;0;0;0;0;1;1;1;3;1;
+21.08.2013;a;NP7088w;NP7088;w;0;0;1;1;1;1;1;1;6;1;
+21.08.2013;a;NP7088w;NP7088;w;0;0;1;1;1;1;1;1;6;1;
+21.08.2013;a;NP7088w;NP7088;w;0;0;0;0;0;1;1;1;3;1;
+21.08.2013;a;NP7088w;NP7088;w;0;0;0;0;0;0;1;1;2;1;
+21.08.2013;a;NP7088w;NP7088;w;0;0;0;0;0;0;1;1;2;1;
+23.08.2013;a;NP7088w;NP7088;w;0;0;0;0;1;1;1;1;4;1;
+23.08.2013;a;NP7088w;NP7088;w;0;0;0;0;0;0;0;1;1;1;
+27.08.2013;b;NP7088w;NP7088;w;0;0;0;0;0;0;0;0;0;1;
+27.08.2013;b;NP7088w;NP7088;w;0;0;0;0;1;1;1;1;4;1;
+27.08.2013;b;NP7088w;NP7088;w;0;0;0;0;0;0;0;1;1;1;
+03.09.2013;b;NP7088w;NP7088;w;0;0;0;0;0;1;1;1;3;1;
+03.09.2013;b;NP7088w;NP7088;w;0;0;0;0;0;0;1;1;2;1;
+03.09.2013;b;NP7088w;NP7088;w;0;0;0;0;0;0;1;1;2;1;
+03.09.2013;b;NP7088w;NP7088;w;0;0;0;0;1;1;1;1;4;1;
+04.09.2013;b;NP7088w;NP7088;w;0;0;0;0;0;1;0;0;1;1;
+04.09.2013;b;NP7088w;NP7088;w;0;0;0;0;0;0;1;1;2;1;
+04.09.2013;b;NP7088w;NP7088;w;0;0;0;0;0;0;0;0;0;1;
+04.09.2013;b;NP7088w;NP7088;w;0;0;0;0;0;0;1;1;2;1;
+04.09.2013;b;NP7088w;NP7088;w;0;0;0;0;0;1;1;1;3;1;
+04.09.2013;b;NP7088w;NP7088;w;0;0;0;0;0;0;0;0;0;1;
+04.09.2013;b;NP7088w;NP7088;w;0;0;1;1;0;1;1;1;5;1;
+05.09.2013;c;NP7088w;NP7088;w;0;1;1;1;1;1;1;1;7;1;
+05.09.2013;c;NP7088w;NP7088;w;0;0;0;0;0;0;1;1;2;1;
+05.09.2013;c;NP7088w;NP7088;w;0;0;0;0;0;0;0;0,5;0,5;1;
+05.09.2013;c;NP7088w;NP7088;w;0;1;1;1;1;1;1;1;7;1;
+05.09.2013;c;NP7088w;NP7088;w;0;0;0;0;0;0;0;0;0;1;
+05.09.2013;c;NP7088w;NP7088;w;0;0;0;0;0;0;1;0;1;1;
+05.09.2013;c;NP7088w;NP7088;w;0;0;0;0;0;0;0;1;1;1;
+05.09.2013;c;NP7088w;NP7088;w;0;1;1;1;1;1;1;1;7;1;
+05.09.2013;c;NP7088w;NP7088;w;0;0;0;0;0;0;0;0;0;1;
+05.09.2013;c;NP7088w;NP7088;w;0;0;0;0;0;0;1;1;2;1;
+06.09.2013;c;NP7088w;NP7088;w;0;1;1;0;1;1;1;1;6;1;
+10.09.2013;c;NP7088w;NP7088;w;0;0;0;0;0;0;1;1;2;1;
