@@ -10,7 +10,12 @@
 
 all140 <-  read.csv2("data/fig4_HS140.csv")
 #change genotype names
+
 all140= changegenotype(all140)
+all140$genotype = as.character(all140$genotype)
+all140$genotype [all140$genotype == "w+"] <- "w-"
+all140$genotype = as.factor(all140$genotype)
+
 #recalculate score from raw data (modifiable)
 all140=score_PER (all140)
 
@@ -54,6 +59,9 @@ HS118 <- subset(data,starvation!="ninetysix")
 
 #change genotype names
 HS118= changegenotype(HS118)
+HS118$genotype = as.character(HS118$genotype)
+HS118$genotype [HS118$genotype == "w+"] <- "w-"
+HS118$genotype = as.factor(HS118$genotype)
 #recalculate score from raw data (modifiable)
 HS118=score_PER (HS118)
 
