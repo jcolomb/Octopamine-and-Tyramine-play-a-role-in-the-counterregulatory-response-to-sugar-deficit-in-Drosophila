@@ -96,10 +96,10 @@ t7$genotype [t7$group == "tbhFED"] = "tßhnM18"
 t7$genotype [t7$group == "Wst"]= "w+"
 t7$genotype [t7$group == "tbhst"] = "tßhnM18"
 
-t7$starved [t7$group == "WFED"] = "no"
-t7$starved [t7$group == "tbhFED"] = "no"
-t7$starved [t7$group == "Wst"]= "yes"
-t7$starved [t7$group == "tbhst"] = "yes"
+t7$starved [t7$group == "WFED"] = "not starved"
+t7$starved [t7$group == "tbhFED"] = "not starved"
+t7$starved [t7$group == "Wst"]= "starved 20h"
+t7$starved [t7$group == "tbhst"] = "starved 20h"
 
 a <- aggregate(Sugarcontent ~ starved + genotype , t7, function(i) c(val=length(i), ypos=quantile(i)[2]))
 
@@ -108,7 +108,7 @@ Fig2A= ggplot(t7, aes(x=starved,y=Sugarcontent, fill=genotype))+
   #geom_violin()+
   # geom_jitter()+
   ylab("Trehalose + glucose [mg/ml]") +
-  xlab("After 20h starvation") +
+  xlab("Starvation") +
   scale_fill_manual(values=c(color_tbh, color_contol1)) +
   
   #scale_fill_manual(values=c("grey","white")) + # column fill and legend title/ -lables
