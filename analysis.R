@@ -1,7 +1,9 @@
 library (tidyverse)
 library("cowplot")
-library(MASS)
-library(reshape2)
+#library(MASS)
+#library(reshape2)
+library(ggfortify)
+library(survival)
 
 
 Chrisitheme <- theme_bw() +     # to make background white, has to be before "opts"
@@ -59,7 +61,7 @@ score_PER <- function(data) {
 
 source ("Rscripts/fig1.r")
 source ("Rscripts/fig2_2.r")
-source ("Rscripts/fig3.r")
+source ("Rscripts/fig3_surv.r")
 source ("Rscripts/fig4.r")
 source ("Rscripts/fig5.r")
 source ("Rscripts/fig6.r") #this is fig 6
