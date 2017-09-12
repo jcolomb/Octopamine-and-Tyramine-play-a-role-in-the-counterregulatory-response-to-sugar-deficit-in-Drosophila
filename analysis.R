@@ -65,6 +65,7 @@ source ("Rscripts/fig3_surv.r")
 source ("Rscripts/fig4.r")
 source ("Rscripts/fig5.r")
 source ("Rscripts/fig6.r") #this is fig 6
+SPACE =0.4
 source ("Rscripts/fig7A.r")
 source ("Rscripts/fig7B_survival.r")
 

@@ -28,7 +28,7 @@
       Chrisitheme+
       geom_text(x = 1, y = 7.5, label = "*", size = starsize)+
       geom_text(x = 3, y = 7.5, label = "*", size = starsize)+
-      geom_text(data = a, aes(y= SCORE[,2]+0.2,label= paste0("n = ",SCORE[,1])), 
+      geom_text(data = a, aes(y= SCORE[,2]+SPACE,label= paste0("n = ",SCORE[,1])), 
                 position = position_dodge(width=0.9))
     
     #attach(TA_homo)
@@ -63,7 +63,7 @@
     # labels=c("tßhnM18","w+")) + # column fill and legend title/ -lables
     scale_y_continuous(breaks=0:7, limits = c(0,8))+
     Chrisitheme+
-    geom_text(data = a, aes(y= SCORE[,2]+0.2,label= paste0("n = ",SCORE[,1])), 
+    geom_text(data = a, aes(y= SCORE[,2]+SPACE,label= paste0("n = ",SCORE[,1])), 
               position = position_dodge(width=0.9))
   
   
@@ -139,7 +139,7 @@
     scale_y_continuous(breaks=0:7, limits = c(0,8))+
     Chrisitheme+
     geom_text(x = 1.5, y = 7.5, label = "*", size = starsize)+
-    geom_text(data = a, aes(y= SCORE[,2]+0.2,label= paste0("n = ",SCORE[,1])), 
+    geom_text(data = a, aes(y= SCORE[,2]+SPACE,label= paste0("n = ",SCORE[,1])), 
               position = position_dodge(width=0.9))
   
 
