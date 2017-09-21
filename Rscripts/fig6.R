@@ -6,7 +6,7 @@
   
 # boxplot of all groups ####
 
-    all <- read.csv2("data/fig7_all-rescues.csv")
+    all <- read.csv2("data/fig6_all-rescues.csv")
     #recalculate score from raw data (modifiable)
     all=score_PER (all)
     all$genotype ->temp
